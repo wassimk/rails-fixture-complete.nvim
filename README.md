@@ -4,6 +4,8 @@ Autocompletion for Rails test fixtures. Completes fixture type names (`users`, `
 
 Works natively with both [blink.cmp](https://github.com/Saghen/blink.cmp) and [nvim-cmp](https://github.com/hrsh7th/nvim-cmp).
 
+![Demo](demo.gif)
+
 ## 📋 Requirements
 
 - **Neovim 0.10+**
